@@ -26,13 +26,8 @@ El sistema realiza el siguiente flujo:
 5. El chatbot responde con información breve sobre cada organismo o planta detectada.
 6. El usuario recibe la respuesta en lenguaje natural.
 
-## Tecnologías utilizadas
-- Make
-- Make AI Agent
-- Inteligencia artificial para análisis de imágenes
-- Chatbot para interacción con el usuario
-
-##Codigo
+## Codigo
+[Blueprint del bot (JSON)](codigo/Bot%20fotitos.blueprint.json)
 
 
 ## Video
