@@ -66,7 +66,7 @@ El chatbot permite identificar elementos visibles en una imagen y generar una re
 ## Reporte técnico
 El reporte técnico formal, en formato APA 7 y en español, se encuentra en:
 
-- `resultados/reporte-tecnico-apa.md`
+resultados/chatITMAZbot_reporte_APA.pdf
 
 ## Estructura del repositorio
 ```text
