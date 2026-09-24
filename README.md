@@ -38,6 +38,7 @@ https://youtube.com/shorts/RY9s2PAod08?feature=share
 
 
 ## Resultados
+[Resultados (PDF)](resultados/Resultados.pdf)
 
 
 ## Conclusión
