@@ -36,10 +36,8 @@ El sistema realiza el siguiente flujo:
 https://youtube.com/shorts/RY9s2PAod08?feature=share
 
 ## Evidencias de prueba
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/44b0130d-6f75-4202-9c45-22de57abb3e6" />
+<img width="650" height="307" alt="image" src="https://github.com/user-attachments/assets/7702e42a-a3b4-40c8-9975-b5aabf8c52e9" />
 
-
-Las imágenes muestran un contexto exterior con vegetación y arquitectura, y fueron utilizadas para evaluar la capacidad del chatbot de analizar el entorno visual y responder con información útil.
 
 ## Ejemplo de respuesta del chatbot
 El sistema puede responder de la siguiente manera:
@@ -49,48 +47,14 @@ El sistema puede responder de la siguiente manera:
 - Rol: qué papel cumple en el ecosistema
 - Observación: se indica incertidumbre si la imagen no permite una identificación precisa
 
-## Resultados esperados
-El chatbot permite identificar elementos visibles en una imagen y generar una respuesta informativa en lenguaje natural. La calidad de la respuesta dependerá principalmente de:
+## Resultados
 
-- calidad de la imagen
-- iluminación
-- resolución
-- claridad del objeto o planta
-- cantidad de elementos visibles en la fotografía
 
 ## Observaciones
 - El sistema funciona como apoyo educativo y de observación visual.
 - Debe indicar incertidumbre cuando la imagen no permita una identificación segura.
 - La respuesta es útil como orientación general, pero no sustituye una validación técnica o científica.
 
-## Reporte técnico
-El reporte técnico formal, en formato APA 7 y en español, se encuentra en:
-
-[Reporte APA (PDF)](resultados/chatITMAZbot_reporte_APA.pdf)
-
-## Estructura del repositorio
-```text
-proyecto-ejemplo/
-├── README.md
-├── codigo/
-│   └── .gitkeep
-├── imagenes/
-│   └── .gitkeep
-├── video/
-│   └── .gitkeep
-├── resultados/
-│   ├── README.md
-│   └── reporte-tecnico-apa.md
-└── .gitignore
-```
-
-## Datos del proyecto
-- Autor: Ruben Nolasco Carrillo
-- Carrera: Ingeniería en Sistemas Computacionales
-- Institución: Instituto Tecnológico del Estado de Sinaloa
-- Profesor: Miguel Ángel Barrón Hernández
-- Fecha: 23/09/2026
-- Proyecto: chatITMAZbot
 
 ## Conclusión
 chatITMAZbot demuestra la viabilidad de integrar automatización con inteligencia artificial para analizar imágenes y responder con información útil sobre plantas u organismos vivos. El proyecto resulta especialmente valioso como herramienta de apoyo educativo, de observación ambiental y de exploración de aplicaciones de IA en entornos prácticos.
