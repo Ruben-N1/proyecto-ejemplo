@@ -32,28 +32,17 @@ El sistema realiza el siguiente flujo:
 - Inteligencia artificial para análisis de imágenes
 - Chatbot para interacción con el usuario
 
-## Enlace de demostración
+##Codigo
+
+
+## Video
 https://youtube.com/shorts/RY9s2PAod08?feature=share
 
 ## Imagenes
 <img width="650" height="307" alt="image" src="https://github.com/user-attachments/assets/7702e42a-a3b4-40c8-9975-b5aabf8c52e9" />
 
 
-## Ejemplo de respuesta del chatbot
-El sistema puede responder de la siguiente manera:
-
-- Identificación: planta o organismo observado
-- Descripción breve: función o apariencia
-- Rol: qué papel cumple en el ecosistema
-- Observación: se indica incertidumbre si la imagen no permite una identificación precisa
-
 ## Resultados
-
-
-## Observaciones
-- El sistema funciona como apoyo educativo y de observación visual.
-- Debe indicar incertidumbre cuando la imagen no permita una identificación segura.
-- La respuesta es útil como orientación general, pero no sustituye una validación técnica o científica.
 
 
 ## Conclusión
