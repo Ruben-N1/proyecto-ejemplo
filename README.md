@@ -30,7 +30,7 @@ El sistema realiza el siguiente flujo:
 [Blueprint del bot (JSON)](codigo/Bot%20fotitos.blueprint.json)
 
 
-## Video
+## Imágenes
 
 <img width="650" height="307" alt="image" src="https://github.com/user-attachments/assets/7702e42a-a3b4-40c8-9975-b5aabf8c52e9" />
 
