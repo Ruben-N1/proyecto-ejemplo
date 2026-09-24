@@ -36,9 +36,8 @@ El sistema realiza el siguiente flujo:
 https://youtube.com/shorts/RY9s2PAod08?feature=share
 
 ## Evidencias de prueba
-Se realizaron pruebas con dos imágenes del entorno, identificadas como:
-- Imagen 1
-- Imagen 2
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/44b0130d-6f75-4202-9c45-22de57abb3e6" />
+
 
 Las imágenes muestran un contexto exterior con vegetación y arquitectura, y fueron utilizadas para evaluar la capacidad del chatbot de analizar el entorno visual y responder con información útil.
 
