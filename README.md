@@ -35,7 +35,7 @@ El sistema realiza el siguiente flujo:
 ## Enlace de demostración
 https://youtube.com/shorts/RY9s2PAod08?feature=share
 
-## Evidencias de prueba
+## Imagenes
 <img width="650" height="307" alt="image" src="https://github.com/user-attachments/assets/7702e42a-a3b4-40c8-9975-b5aabf8c52e9" />
 
 
