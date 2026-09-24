@@ -1,10 +1,10 @@
-# chatITMAZbot
+# Ecosistema
 
 ## Descripción
-chatITMAZbot es un chatbot desarrollado en Make que utiliza un módulo de Make AI Agent para analizar fotografías de plantas u organismos vivos y responder con información breve sobre lo que identifica. El sistema busca describir qué es el elemento observado, qué función cumple y cuál es su rol dentro del ecosistema.
+Ecosistema(chatITMAZbot) es un chatbot desarrollado en Make que utiliza un módulo de Make AI Agent para analizar fotografías de plantas u organismos vivos y responder con información breve sobre lo que identifica. El sistema busca describir qué es el elemento observado, qué función cumple y cuál es su rol dentro del ecosistema.
 
 ## Nombre del proyecto
-chatITMAZbot (también conocido como Ecosistema)
+Ecosistema(chatITMAZbot)
 
 ## Objetivo general
 Desarrollar un sistema basado en inteligencia artificial para reconocer organismos vivos o plantas presentes en una imagen y ofrecer una respuesta breve, clara y útil para el usuario.
